@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">F2019_Lesson4</string>
+    <string name="next"><![CDATA[Next >>]]></string>
+    <string name="enter_url">Enter a URL</string>
+    <string name="visit">Visit</string>
+    <string name="back"><![CDATA[<< Back]]></string>
+    <string name="title_activity_basic">BasicActivity</string>
+</resources>
